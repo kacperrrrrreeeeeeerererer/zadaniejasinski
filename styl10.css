@@ -1,0 +1,68 @@
+body {
+    font-family: Helvetica;
+    background-color: rgb(146, 184, 112);
+    text-align: center;
+}
+
+
+#gorny, #gorny2 {
+     background-color: rgb(146, 184, 112);
+    text-align: center;
+    width: 50%;
+    height: 170px;
+    float: left;
+}
+#baner {
+    clear: both;
+    background-color: rgb(100, 61, 49);
+    color: white;
+    text-align: center;
+    height: 80px;
+    padding: 5px;
+}
+#lewy, #prawy {
+    background-color: rgb(146, 184, 112); 
+    width: 50%;
+    height: 450px;
+    float: left;
+}
+.zamowienie {
+background-image:url(cukierki1.jpg);
+padding-right: 30px;
+padding-bottom: 120px;
+font-size: 150%;
+text-decoration: none;
+display: inline-block;
+}
+.index {
+    position: absolute;
+    top: -60px;
+    right: 20px;
+}
+table, td {
+    border: 2px dotted green; 
+}
+table { margin-left: auto;
+    margin-right: auto;
+margin-top: 30px;
+ border-collapse: collapse ;
+}
+td {
+    padding: 20px;
+    vertical-align: top;
+    text-align: left;
+}
+h1 {
+letter-spacing: 20px;  
+font-size: 250%;  
+margin: 5px 0;
+text-transform: uppercase;
+}
+footer {
+    clear: both;
+    background-color: rgb(100, 61, 49);
+    color: white;
+    text-align: center;
+    height: 80px;
+    padding-top: 25px;
+}
